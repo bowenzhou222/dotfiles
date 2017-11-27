@@ -1,8 +1,8 @@
-jasonelston dotfiles
+bowenzhou222 dotfiles
 ===============
 
 I use [thoughtbot/dotfiles](https://github.com/thoughtbot/dotfiles) and
-jasonelston/dotfiles together using [the `*.local` convention][dot-local].
+bowenzhou222/dotfiles together using [the `*.local` convention][dot-local].
 
 [dot-local]: http://robots.thoughtbot.com/manage-team-and-personal-dotfiles-together-with-rcm
 
@@ -23,7 +23,7 @@ Install
 
 Clone onto my laptop:
 
-    git clone https://github.com/jasonelston/dotfiles.git ~/dotfiles-local
+    git clone https://github.com/bowenzhou222/dotfiles.git ~/dotfiles-local
     git clone https://github.com/thoughtbot/dotfiles.git ~/dotfiles
 
 Install:
