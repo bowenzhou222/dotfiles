@@ -1,24 +1,21 @@
 brew bundle --file=- <<EOF
 # Productivity
 cask 'spectacle'
-cask 'nvalt'
-cask 'fantastical'
-cask 'skype'
-cask 'omnigraffle'
-cask 'monodraw'
 
 # Development
 brew 'git-flow'
 brew 'go', args: ['cross-compile-common']
 cask 'visual-studio-code'
 cask 'atom'
-cask 'dash'
-cask 'github-desktop'
 cask 'vagrant'
 cask 'virtualbox'
 brew 'pandoc'
-cask 'anvil'
 cask 'dbeaver-community'
+cask 'postico'
+cask 'postman'
+cask 'sourcetree'
+cask 'docker'
+cask 'kitematic'
 
 EOF
 
